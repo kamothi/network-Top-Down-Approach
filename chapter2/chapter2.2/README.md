@@ -83,6 +83,7 @@ HTTP/1.1 지속 연결에서 서버는 응답을 보낸 후에 TCP 연결을 그
 
 ### HTTP 응답 메시지
 <p align="center"><img width="450" height = 300 src="image-3.png">
+
 응답 메시지는 상태 라인, 헤더 라인, 개체 몸체로 이루어져 있다.
 
 헤더라인
