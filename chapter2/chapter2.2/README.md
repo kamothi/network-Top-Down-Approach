@@ -60,6 +60,7 @@ HTTP/1.1 지속 연결에서 서버는 응답을 보낸 후에 TCP 연결을 그
 ## HTTP 메시지 포맷
 ### HTTP 요청 메시지
 <p align="center"><img width="450" height = 300 src="image-1.png">
+
 일반적으로 위와 같은 메시지를 가진다. 일반적으로 메시지는 ASCII 텍스트로 쓰여 있고 다섯 줄로 되어 있고 각 줄은 CR(Carriage return)과 LF(line feed)로 이루어져 있다. 이 줄의 경우 이것보다 더 짧거나 길 수도 있다. HTTP 요청 메시지의 첫 줄은 요청 라인(Request Line)이라고 부르고, 이후의 줄들은 헤더 라인(Header line)이라고 부른다.
 
 요청 라인
